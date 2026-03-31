@@ -8,6 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3fdfb462-1854-4bd2-a573-d31e143cf51a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CICDGroup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CICDGroup/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CICDGroup/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CICDGroup/Pages/Index.cshtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +38,6 @@
     &quot;accountId&quot;: &quot;579fcf23-6f06-4bfd-b9c8-5290d81e4740&quot;
   }
 }</component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/.idea/config/applicationhost.config" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -54,17 +52,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.CICDGroup: IIS Express.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.CICDGroup: IIS Express.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.CICDGroup: IIS Express">
     <configuration name="CICDGroup: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/CICDGroup/CICDGroup.csproj" />
@@ -133,31 +131,7 @@
       <option name="project" value="LOCAL" />
       <updated>1774976960080</updated>
     </task>
-    <task id="LOCAL-00002" summary="commit">
-      <option name="closed" value="true" />
-      <created>1774978920357</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1774978920357</updated>
-    </task>
-    <task id="LOCAL-00003" summary="changing to master">
-      <option name="closed" value="true" />
-      <created>1774978998889</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1774978998889</updated>
-    </task>
-    <task id="LOCAL-00004" summary="master push">
-      <option name="closed" value="true" />
-      <created>1774979016984</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1774979016984</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,10 +153,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="pushing change" />
-    <MESSAGE value="commit" />
-    <MESSAGE value="changing to master" />
-    <MESSAGE value="master push" />
-    <option name="LAST_COMMIT_MESSAGE" value="master push" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
