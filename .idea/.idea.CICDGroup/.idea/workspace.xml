@@ -7,10 +7,7 @@
     <projectFile profileName="https">CICDGroup/CICDGroup.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdfb462-1854-4bd2-a573-d31e143cf51a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CICDGroup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CICDGroup/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CICDGroup/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/CICDGroup/Pages/Index.cshtml" afterDir="false" />
-    </list>
+    <list default="true" id="3fdfb462-1854-4bd2-a573-d31e143cf51a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +161,7 @@
       <workItem from="1774976527686" duration="2099000" />
       <workItem from="1775322576461" duration="317000" />
       <workItem from="1775510527767" duration="990000" />
-      <workItem from="1775511720659" duration="357000" />
+      <workItem from="1775511720659" duration="1616000" />
     </task>
     <task id="LOCAL-00001" summary="pushing change">
       <option name="closed" value="true" />
@@ -190,7 +187,23 @@
       <option name="project" value="LOCAL" />
       <updated>1775510554658</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <option name="closed" value="true" />
+      <created>1775512088915</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775512088915</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Big change">
+      <option name="closed" value="true" />
+      <created>1775513236590</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775513236590</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +227,9 @@
     <MESSAGE value="pushing change" />
     <MESSAGE value="costco change" />
     <MESSAGE value="Commit change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit change" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="Big change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Big change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
